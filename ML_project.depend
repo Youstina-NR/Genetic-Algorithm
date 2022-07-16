@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1418305514 source:/home/youstina/Desktop/ML_project/main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<cstdio>
+	<string.h>
+
+1658005744 source:d:\projects\ml_project\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<cstdio>
+	<string.h>
+
